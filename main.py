@@ -1,3 +1,4 @@
 def hello():
     print("Hello, World")
-x =  1 #Extra space for quality check
+x= 1
+y= 2 
